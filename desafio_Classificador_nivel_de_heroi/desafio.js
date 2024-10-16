@@ -30,7 +30,7 @@ player.forEach((linha) => {
         console.log("The player " + name + " is Ascendant!")
     }
     else if(score >= 10001 && score <= 11000) {
-        console.log("The player " + name + " is Imortal!")
+        console.log("The player " + name + " is Immortal!") // Corrigido para 'Immortal'
     }
     else {
         console.log("The player " + name + " is Radiant!")
